@@ -12,5 +12,7 @@ public class StringExample {
         System.out.println(s2.equals(s3));
 
         //a tu wam zrobie kuku :D
+
+        //jeszcze jeden komentarz
     }
 }
