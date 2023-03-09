@@ -9,5 +9,6 @@ public class StringExample {
         System.out.println(s2 == s3);
 
         System.out.println(s1.equals(s2));
+        System.out.println(s2.equals(s3));
     }
 }
