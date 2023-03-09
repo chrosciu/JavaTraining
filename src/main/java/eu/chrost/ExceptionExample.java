@@ -10,7 +10,7 @@ public class ExceptionExample {
     private static void doSomethingDangerous() {
         System.out.println("Otwieram plik");
         try {
-            System.out.println("Przed operacją");
+            System.out.println("Przed operacją"); //komunikat
             Danger.doSomething();
             System.out.println("Po operacji");
         } catch (IOException e) {
