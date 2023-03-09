@@ -1,5 +1,5 @@
 package eu.chrost;
-
+//komentarz f_4
 import org.apache.commons.lang3.ArrayUtils;
 
 public class ArrayTask {
