@@ -5,8 +5,13 @@ import java.util.Objects;
 public class Animal {
 
 
+<<<<<<< HEAD
     private static int nextId = 4;
     
+=======
+    private static int nextId = 5;
+
+>>>>>>> 8693b5258ea2ec2915c052f0add38ef35414a680
     private int id;
     private String name;
     private int age;
