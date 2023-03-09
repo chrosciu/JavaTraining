@@ -4,11 +4,11 @@ import org.apache.commons.lang3.ArrayUtils;
 
 public class ArrayTask {
     public static void main(String[] args) {
-        int[] tab = createArray(8);
+        int[] tab = createArray(18);
         System.out.println("tab");
         display(tab);
 
-        int[] tab2 = removeAtIndex(tab, 5);
+        int[] tab2 = removeAtIndex(tab, 15);
         System.out.println("tab2");
         display(tab2);
     }
