@@ -4,7 +4,7 @@ import java.util.Objects;
 
 public class Animal {
 
-    private static int nextId = 1;
+    private static int nextId = 3;
 
     private int id;
     private String name;
