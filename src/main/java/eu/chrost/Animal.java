@@ -1,5 +1,5 @@
 package eu.chrost;
-
+//Komentarz Krystiana
 import java.util.Objects;
 
 public class Animal {
