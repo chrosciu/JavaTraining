@@ -6,4 +6,5 @@ public class HelloUtil {
     }
 
     //tu bedzie kiedys wielki portal ale to kiedys...
+    //.. jednak nie bedzie
 }
