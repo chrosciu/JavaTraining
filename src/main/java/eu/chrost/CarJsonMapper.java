@@ -13,8 +13,8 @@ public class CarJsonMapper {
     }
 
     private static void validateArgs(String[] args) {
-        if (args.length > 3) {
-            throw new IllegalArgumentException("Za dużo!");
+        if (args.length != 2) {
+            throw new IllegalArgumentException("Niepoprawna liczba argumentów");
         }
         //reszta ifozy
     }
